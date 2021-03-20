@@ -1,6 +1,6 @@
 package com.caterpillar.demo.builder;
 
-import com.caterpillar.demo.buildE.ArmsBuild;
+import com.caterpillar.demo.builder.ArmsBuilder;
 
 /**
  * @author ：caterpillar
