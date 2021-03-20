@@ -4,10 +4,10 @@ import java.io.Serializable;
 
 /**
  * @author ：caterpillar
- * @description：地址, 实现Cloneable和Serializable接口
+ * @description：地址, 实现Cloneable接口
  * @date ：Created in 2021/3/20 23:28
  */
-public class Address implements Cloneable, Serializable {
+public class Address implements Cloneable {
     private String city;// 城市
     private String dstrict;// 区
 
